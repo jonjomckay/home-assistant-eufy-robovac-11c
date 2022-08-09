@@ -1,0 +1,11 @@
+{
+  "_output_dir": "/home/jonjo/Projects",
+  "_template": "git+ssh://git@github.com/oncleben31/cookiecutter-homeassistant-custom-component.git",
+  "class_name_prefix": "EufyRobovac11c",
+  "domain_name": "eufy_robovac_11c",
+  "friendly_name": "Eufy RoboVac 11c",
+  "github_user": "jonjomckay",
+  "project_name": "eufy-robovac-11c",
+  "test_suite": "no",
+  "version": "1.0.0"
+}
